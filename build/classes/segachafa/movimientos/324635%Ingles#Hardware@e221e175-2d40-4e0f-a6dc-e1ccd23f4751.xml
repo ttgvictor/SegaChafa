@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Movimiento>
+  <UUID>e221e175-2d40-4e0f-a6dc-e1ccd23f4751</UUID>
+  <Materia>Ingles</Materia>
+  <Grupo>HW2</Grupo>
+  <TipoMovimiento>Alta</TipoMovimiento>
+  <Observaciones>Se da de alta ingles</Observaciones>
+</Movimiento>
